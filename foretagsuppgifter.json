@@ -1,0 +1,394 @@
+{
+  "checked_date": "2026-11-19",
+  "basis": "Original-site factual content verified from saved current HTML. Third-party registry information used only for company identity corroboration. No messages/forms sent; no delivery test.",
+  "display_name": {
+    "value": "Treborg Bygg",
+    "source_url": "https://www.treborgbygg.se/"
+  },
+  "legal_name": {
+    "value": "Treborg Bygg i Skåne AB",
+    "source_url": "https://www.treborgbygg.se/omoss",
+    "registry_case": "Treborg bygg i Skåne AB"
+  },
+  "org_number": {
+    "value": "559104-7831",
+    "source_url": "https://www.ratsit.se/5591047831-Treborg_bygg_i_Skane_AB",
+    "corroboration_urls": [
+      "https://www.hitta.se/f%C3%B6retagsinformation/treborg%2Bbygg%2Bi%2Bsk%C3%A5ne%2Bab/5591047831",
+      "https://www.merinfo.se/foretag/Treborg-bygg-i-Sk%C3%A5ne-AB-5591047831/2kgrk47-1mum0"
+    ],
+    "qualification": "Not displayed on original pages; independently corroborated identity."
+  },
+  "phone": {
+    "value": "+46734010463",
+    "display": "073-401 04 63",
+    "source_url": "https://www.treborgbygg.se/contact",
+    "evidence": "Displayed in original footer as Tel:073-4010463. Not linked as tel on original.",
+    "corroboration_url": "https://www.bolagsfakta.se/5591047831-Treborg_bygg_i_Skane_AB"
+  },
+  "email": {
+    "value": "info@treborgbygg.se",
+    "source_url": "https://www.treborgbygg.se/contact",
+    "evidence": "Original visible and mailto target match."
+  },
+  "office_address": {
+    "label": "Kontor",
+    "street": "Östergatan 62",
+    "postal_code": "231 45",
+    "city": "Trelleborg",
+    "source_url": "https://www.treborgbygg.se/contact",
+    "qualification": "Use as published office address, not as verified registered address or promise of walk-in reception hours. Hitta lists this as business address too."
+  },
+  "registered_address": {
+    "street": "Svenstorpsgatan 13",
+    "postal_code": "231 64",
+    "city": "Trelleborg",
+    "source_url": "https://www.ratsit.se/5591047831-Treborg_bygg_i_Skane_AB",
+    "qualification": "Different registered address is not company identity conflict; keep original office address in public contact design."
+  },
+  "founded": {
+    "year": 2017,
+    "source_url": "https://www.treborgbygg.se/",
+    "evidence": "Original says Grundat2017.",
+    "corroboration_url": "https://www.ratsit.se/5591047831-Treborg_bygg_i_Skane_AB",
+    "corroboration": "Registry formation2017-03-01 and registration2017-03-15; use simple Sedan2017, not an invented experience metric."
+  },
+  "service_area": {
+    "base": "Trelleborg",
+    "general": "Skåne",
+    "more_specific": "Södra Skåne; Trelleborg med omnejd",
+    "source_urls": [
+      "https://www.treborgbygg.se/",
+      "https://www.treborgbygg.se/omoss"
+    ],
+    "qualification": "Home says work around Skåne; About says southernSkåne. Do not invent a long municipality coverage list or nationwide work."
+  },
+  "customer_groups": {
+    "value": [
+      "Privatpersoner",
+      "Företag"
+    ],
+    "source_url": "https://www.treborgbygg.se/omoss"
+  },
+  "services": [
+    {
+      "slug": "renovering",
+      "name": "Renovering",
+      "source_url": "https://www.treborgbygg.se/renovering",
+      "scope": [
+        "Totalrenovering av hus, lägenheter och kommersiella lokaler",
+        "Samordning från planering och rivning till bygg och färdigställande",
+        "Samordning med el och VVS enligt originalets tjänstebeskrivning"
+      ],
+      "qualification": "Homepage explains established collaboration with painters,VVS and electricians. Do not imply own electrical/VVS certifications or all specialists employed in-house."
+    },
+    {
+      "slug": "rivning",
+      "name": "Rivningstjänst",
+      "source_url": "https://www.treborgbygg.se/rivning",
+      "scope": [
+        "Rivning av vägg inför renovering",
+        "Borttagning av gammalt kök",
+        "Totalrivning inför nybyggnation",
+        "Planering, avfallshantering och städning enligt originalet"
+      ],
+      "qualification": "Do not invent asbestos remediation, hazardous-material licenses, machinery fleet, formal qualifications or emergency availability. Original illustration is explicitly Gemini generated and excluded from documentary use."
+    },
+    {
+      "slug": "malning",
+      "name": "In- och utvändig målning",
+      "source_url": "https://www.treborgbygg.se/malning",
+      "scope": [
+        "Invändig målning av väggar, tak och snickerier",
+        "Utvändig målning av fasader, fönster och altaner",
+        "Förarbete och anpassning av färg/material till ytan"
+      ],
+      "qualification": "Original claims own painters while homepage also states cooperation with painting firms; present service/coordination without invented staffing or warranty."
+    },
+    {
+      "slug": "taklaggning",
+      "name": "Takläggning",
+      "source_url": "https://www.treborgbygg.se/taklaggning",
+      "scope": [
+        "Nya tak",
+        "Omläggning och reparation av befintligt tak",
+        "Tegel, betongpannor och plåt",
+        "Inspektion och rådgivning enligt originalet"
+      ],
+      "qualification": "No exact warranty years, certification, roof-area statistics or fixed prices stated."
+    },
+    {
+      "slug": "tillbyggnad",
+      "name": "Till- och ombyggnad",
+      "source_url": "https://www.treborgbygg.se/",
+      "scope": [
+        "Tillbyggnad och ombyggnad"
+      ],
+      "qualification": "Named in original home/about; no separate original detailed page. Do not invent permit-management service or fixed construction times."
+    },
+    {
+      "slug": "kok-badrum",
+      "name": "Badrum och kök",
+      "source_url": "https://www.treborgbygg.se/",
+      "scope": [
+        "Köks- och badrumsrenoveringar"
+      ],
+      "qualification": "Homepage lists service and completed work generally. No independently verified wet-room authorization, insurance policy or exact process standard stated."
+    },
+    {
+      "slug": "poolbygge",
+      "name": "Poolbyggen",
+      "source_url": "https://www.treborgbygg.se/",
+      "scope": [
+        "Poolbyggen inklusive miljön runt om"
+      ],
+      "qualification": "Documented reference captions show pool and addition+pool, but no pool brand, technical dimensions or client identities."
+    },
+    {
+      "slug": "nybyggnation",
+      "name": "Nybyggnation",
+      "source_url": "https://www.treborgbygg.se/",
+      "scope": [
+        "Nybyggnation named in original hero"
+      ],
+      "qualification": "General original homepage scope; no separate original service page or documented turnkey package. Do not invent complete design/permit/architect services."
+    }
+  ],
+  "quote_offer": {
+    "value": "Kostnadsfri offert",
+    "source_urls": [
+      "https://www.treborgbygg.se/renovering",
+      "https://www.treborgbygg.se/rivning",
+      "https://www.treborgbygg.se/malning",
+      "https://www.treborgbygg.se/taklaggning"
+    ],
+    "qualification": "No exact response-time promise, service price, contract terms or minimum project value stated."
+  },
+  "collaborations": {
+    "published_names": [
+      "Peab",
+      "Veidekke"
+    ],
+    "source_url": "https://www.treborgbygg.se/",
+    "published_scope": "Original says it has collaborated and performed work for both; precise named examples described for Peab.",
+    "specialist_collaborations": [
+      "Målerifirmor",
+      "VVS",
+      "Elektriker"
+    ],
+    "limits": "These are original company self-descriptions, not independent endorsements or permission to use customer logos as trust badges."
+  },
+  "reference_image_entries": [
+    {
+      "id": "pool-1",
+      "original_caption": "Poolbygge",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "source_image_url": "https://static.wixstatic.com/media/40146f_38bf97cf75304c6a898188b082b7a8e2~mv2.jpg",
+      "evidence": "Caption and image share same nearest item-wrapper div in original reference-page HTML.",
+      "limits": "No customer name, project date, budget, dimensions or precise location stated unless separately documented for The Edge. Entries are reference images, not proven distinct projects."
+    },
+    {
+      "id": "takbyte",
+      "original_caption": "Takbyte",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "source_image_url": "https://static.wixstatic.com/media/40146f_a4f5aa98748243d494d1cb6cda8fe4f9~mv2.jpg",
+      "evidence": "Caption and image share same nearest item-wrapper div in original reference-page HTML.",
+      "limits": "No customer name, project date, budget, dimensions or precise location stated unless separately documented for The Edge. Entries are reference images, not proven distinct projects."
+    },
+    {
+      "id": "the-edge",
+      "original_caption": "Kontorsbygge för Peab - The Edge",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "source_image_url": "https://static.wixstatic.com/media/40146f_3723bca04c6948379b9e1002bdd96c3a~mv2.jpg",
+      "evidence": "Caption and image share same nearest item-wrapper div in original reference-page HTML.",
+      "limits": "Do not imply Treborg designed or was total contractor for The Edge; original only says participation in Peab office build. No area,budget,completion date or formal endorsement independently verified.",
+      "project_name": "The Edge",
+      "location": "Hyllie",
+      "client_or_assignment": "Peab",
+      "role": "Medverkan i kontorsbyggnation på uppdrag av Peab.",
+      "role_source_url": "https://www.treborgbygg.se/",
+      "related_home_gallery_images": [
+        "https://static.wixstatic.com/media/40146f_a2207c4483c04b119f7919303e42244c~mv2.jpg",
+        "https://static.wixstatic.com/media/40146f_6240e8c88da245b0849dac2a42e85891~mv2.jpg"
+      ],
+      "related_image_evidence": "Original homepage carousel under Uppdrag av Peab i Hyllie - The Edge contains these plus main reference image."
+    },
+    {
+      "id": "tillbyggnad-pool",
+      "original_caption": "Tillbyggnad + poolbygge",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "source_image_url": "https://static.wixstatic.com/media/40146f_6eb0aa2608bf48c091e14f3f2af93f41~mv2.jpg",
+      "evidence": "Caption and image share same nearest item-wrapper div in original reference-page HTML.",
+      "limits": "No customer name, project date, budget, dimensions or precise location stated unless separately documented for The Edge. Entries are reference images, not proven distinct projects."
+    },
+    {
+      "id": "pool-2",
+      "original_caption": "Poolbygge",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "source_image_url": "https://static.wixstatic.com/media/40146f_907308de730f45c1a5959ba7b912e127~mv2.jpg",
+      "evidence": "Caption and image share same nearest item-wrapper div in original reference-page HTML.",
+      "limits": "No customer name, project date, budget, dimensions or precise location stated unless separately documented for The Edge. Entries are reference images, not proven distinct projects."
+    },
+    {
+      "id": "totalrenovering",
+      "original_caption": "Totalrenovering",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "source_image_url": "https://static.wixstatic.com/media/40146f_64b37cc5af684f7fb44f5f76f327cbf5~mv2.jpg",
+      "evidence": "Caption and image share same nearest item-wrapper div in original reference-page HTML.",
+      "limits": "No customer name, project date, budget, dimensions or precise location stated unless separately documented for The Edge. Entries are reference images, not proven distinct projects."
+    },
+    {
+      "id": "peab-uppdrag",
+      "original_caption": "Uppdrag för Peab",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "source_image_url": "https://static.wixstatic.com/media/40146f_adeee968aa4646869b438566ef66c811~mv2.jpg",
+      "evidence": "Caption and image share same nearest item-wrapper div in original reference-page HTML.",
+      "limits": "No customer name, project date, budget, dimensions or precise location stated unless separately documented for The Edge. Entries are reference images, not proven distinct projects."
+    }
+  ],
+  "other_named_work": [
+    {
+      "project_name": "Nya Domstolen i Malmö",
+      "location": "Malmö",
+      "assignment_context": "Peab",
+      "role": "Medverkan i byggnation enligt originalets hemsida.",
+      "source_url": "https://www.treborgbygg.se/",
+      "limits": "Text-only reference. No source image explicitly identified as this court. Do not attach arbitrary gallery image or imply total-contractor responsibility, dimensions,dates or contract value."
+    }
+  ],
+  "original_routes": [
+    "/",
+    "/tjanster",
+    "/renovering",
+    "/rivning",
+    "/malning",
+    "/taklaggning",
+    "/referenser",
+    "/omoss",
+    "/contact"
+  ],
+  "original_form": {
+    "source_url": "https://www.treborgbygg.se/contact",
+    "required": [
+      "Namn",
+      "E-post"
+    ],
+    "optional": [
+      "Företagsnamn",
+      "Telefon",
+      "Meddelande"
+    ],
+    "service_page_required": [
+      "Namn",
+      "E-post"
+    ],
+    "service_page_optional": [
+      "Företagsnamn",
+      "Meddelande"
+    ],
+    "implementation": "Wix-controlled form; no standard action or named fields in source; submit is JavaScript button. Handler not tested or reused.",
+    "recommended_standalone": "Mail draft to actual info@treborgbygg.se plus downloadable text; no false sent confirmation. Images may be attached manually after opening email."
+  },
+  "social_links": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/TreborgBygg?locale=sv_SE",
+      "source_url": "https://www.treborgbygg.se/contact",
+      "qualification": "Published original link; no review extraction or independent ownership verification performed."
+    }
+  ],
+  "registry_corroboration": {
+    "status": "Aktiv AB",
+    "source_url": "https://www.ratsit.se/5591047831-Treborg_bygg_i_Skane_AB",
+    "observed": "Search-indexed registry company details updated2026-10-17, same org/name/base and2017 registration; Merinfo corroborates active status dated2026-10-21.",
+    "additional_url": "https://www.merinfo.se/foretag/Treborg-bygg-i-Sk%C3%A5ne-AB-5591047831/2kgrk47-1mum0",
+    "qualification": "Third-party registry presentation, not direct Bolagsverket certificate. No status discrepancy found. Do not add financial/staff statistics or legal-registration badges."
+  },
+  "provenance_flags": [
+    {
+      "image_url": "https://static.wixstatic.com/media/40146f_4e143823f9ed46ccb09fc882943ece71~mv2.png",
+      "source_urls": [
+        "https://www.treborgbygg.se/",
+        "https://www.treborgbygg.se/rivning"
+      ],
+      "evidence": "Alt/filename Gemini_Generated_Image_bybjrubybjrubybj.png",
+      "action": "Exclude from documentary projects and hero. Do not present as actual Treborg work."
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/a4c183_c8f73ae6c59b47558e0c738b4d65e6f1~mv2.jpg",
+      "source_url": "https://www.treborgbygg.se/contact",
+      "evidence": "Alt GettyImages-1392303121.jpg",
+      "action": "Stock illustration. Avoid as staff/actual project imagery."
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/a4c183_f88306676db24a8698ed24441f6a2123~mv2.jpg",
+      "source_url": "https://www.treborgbygg.se/",
+      "evidence": "Alt homeabout.jpg; no project or staff attribution.",
+      "action": "Do not infer company staff/customer case."
+    },
+    {
+      "image_url": "https://static.wixstatic.com/media/a4c183_e15d62757f3043af8ea1bbe3b2f2f06d~mv2.jpg",
+      "source_url": "https://www.treborgbygg.se/referenser",
+      "evidence": "Alt projecthero.jpg; not among captioned references.",
+      "action": "Do not infer a named project or location."
+    }
+  ],
+  "unverified_or_absent": {
+    "reviews": "No attributable customer reviews,ratings or quotes on original9pages.",
+    "team": "No named people or identified portraits on original. Registry director not used as an invented biography/profile.",
+    "project_details": "No dates,budgets,areas,dimensions or customer identities for private references.7captioned image entries do not establish7distinct projects.",
+    "certifications": "No independently verified wet-room/electrical/VVS certifications,warranty years or insurance policy details.",
+    "hours": "Original website states no opening hours. Directory hours not adopted.",
+    "response_time": "No24h/48h or emergency-service guarantee.",
+    "permits": "No explicit building-permit/architect/structural-engineering package.",
+    "rut_rot": "No current percentage,automatic eligibility or verified service-specific deduction claim.",
+    "source_link_errors": "Original home has some mislabeled internal links (Omoss=>tjanster, Rivningstjänst=>renovering in one card); use correct original destination routes, not erroneous labels."
+  },
+  "saved_pages": [
+    {
+      "file": "research/pages/contact.html",
+      "sha256": "185e2f6992bf32ddbe02c304e05a9a0667b4eefd7d9f0574eff8e4275279b2d7",
+      "source_url": "https://www.treborgbygg.se/contact"
+    },
+    {
+      "file": "research/pages/index.html",
+      "sha256": "3c857653df47c8038ba67865ce650a9be945b4a997711aad537cbcbc4a7e424c",
+      "source_url": "https://www.treborgbygg.se/"
+    },
+    {
+      "file": "research/pages/malning.html",
+      "sha256": "fd7a9fb6e57f4a8e85b997d9ff762e53c542a5a29c262274cfc77fe6e26c5fb7",
+      "source_url": "https://www.treborgbygg.se/malning"
+    },
+    {
+      "file": "research/pages/omoss.html",
+      "sha256": "8ddc2a419ed2ad2d43be7c34de49f24d7a63372687c9b7dc7f5d2b625f0dfe46",
+      "source_url": "https://www.treborgbygg.se/omoss"
+    },
+    {
+      "file": "research/pages/referenser.html",
+      "sha256": "6ba8c6250572b0cac2879f9884df938fd7c0492ac332e52349fc789734ac7745",
+      "source_url": "https://www.treborgbygg.se/referenser"
+    },
+    {
+      "file": "research/pages/renovering.html",
+      "sha256": "51ab517e5bb295eb0583be9994560e2c115a299d23b56d1e9de6afaea42cde7b",
+      "source_url": "https://www.treborgbygg.se/renovering"
+    },
+    {
+      "file": "research/pages/rivning.html",
+      "sha256": "00c45714e386b4dadda1b07fc22c887e399f12150a1c01b582e6096933290b81",
+      "source_url": "https://www.treborgbygg.se/rivning"
+    },
+    {
+      "file": "research/pages/taklaggning.html",
+      "sha256": "1b0bf458232f1526bdbf53a84c022262e8c3e61fd7ee827c033233949d360d75",
+      "source_url": "https://www.treborgbygg.se/taklaggning"
+    },
+    {
+      "file": "research/pages/tjanster.html",
+      "sha256": "7dfac656b1243711ea1e096d1a1c6adf93bfb0597131ebb806e62a94c3782578",
+      "source_url": "https://www.treborgbygg.se/tjanster"
+    }
+  ]
+}
